@@ -2,6 +2,9 @@
 echo "===== SYSTEM INFO ====="
 
 USER_NAME=$(whoami)
+HOST_NAME=$(hostname)
+DATE_TIME=$(date)
+
 echo "User: $USER_NAME"
 echo "Host: $HOST_NAME"
 echo "Date: $DATE_TIME"
