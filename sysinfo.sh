@@ -1,4 +1,3 @@
-#!/bin/bash
 echo "===== SYSTEM INFO ====="
 
 USER_NAME=$(whoami)
