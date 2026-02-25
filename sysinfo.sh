@@ -1,5 +1,5 @@
+#!/bin/bash
 echo
-
 USER_NAME=$(whoami)
 HOST_NAME=$(hostname)
 DATE_TIME=$(date)
