@@ -9,8 +9,5 @@ This is a system info dashboard  site created using bash and  given by our teach
 ## Built With
 - BASH
 
-## Clone Project
-Run this prompt on your terminal https://github.com/Dorian4563/System-Info-Dashboard-Script2/pull/1
-
 ## Author
 **Dorian**
