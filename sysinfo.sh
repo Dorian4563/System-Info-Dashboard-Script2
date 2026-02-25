@@ -1,4 +1,4 @@
-echo "===== SYSTEM INFO ====="
+echo
 
 USER_NAME=$(whoami)
 HOST_NAME=$(hostname)
